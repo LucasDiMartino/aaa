@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-qunit": "^3.0.1",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "qunit": "^2.8.0"
+  },
+  "name": "tp2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lucas Di Martino <lucas.di_martino@insa-cvl.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "grunt-livereload": "^0.1.3"
+  }
+}
